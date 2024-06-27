@@ -1,0 +1,249 @@
+body {
+  background: #f6f6fa;
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  font-family: "Montserrat", sans-serif;
+}
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+ol {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.Wrapper {
+  background: #fff;
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+/* Main Content */
+
+.main-content {
+  padding-left: 80px;
+  padding-left: 80px;
+  padding-right: 40px;
+  padding-bottom: 80px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+/* Sidebar */
+
+.Sidebar {
+  background: #e0ebfe;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  box-sizing: border-box;
+  width: 370px;
+}
+.sidebar-contents {
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-right: 40px;
+  box-sizing: border-box;
+}
+/* contacts */
+.contacts-title {
+  color: #161d2a;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: normal;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.contact-type {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 171%;
+  color: #161d2a;
+  margin-right: 8px;
+}
+
+.contacts-link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #2979ff;
+}
+.contacts-item {
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.contacts-container {
+  margin-bottom: 40px;
+}
+/* Skils container */
+.skils-container {
+  margin-bottom: 40px;
+}
+.skill-title {
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.skill-list {
+  padding-left: 20px;
+}
+.skill-list-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #161d2a;
+}
+/* Main content */
+.my-profesion {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 121%;
+  color: #000;
+  margin-top: 80px;
+  margin-bottom: 8px;
+}
+.My-name {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 122%;
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+.my-dscr {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #595959;
+  margin-top: 0;
+}
+
+.my-info {
+  margin-bottom: 40px;
+}
+/* my projects */
+.projects {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 123%;
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.my-projects-list {
+  padding-left: 16px;
+}
+.my-project-item {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 171%;
+  color: #000;
+}
+.my-project-item-linc {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #005fff;
+}
+.my-project-item-tech {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #595959;
+}
+.my-projects-container {
+  margin-bottom: 40px;
+}
+/* Work Experience */
+.work-experience {
+  margin-bottom: 40px;
+}
+.work {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 123%;
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.work-experience-company {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 125%;
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+.work-experience-company-color {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 125%;
+  color: #6d9bf5;
+}
+.work-time {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 125%;
+  color: #a8a8a8;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.work-time-1 {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 125%;
+  color: #000;
+}
+
+.Work-Experience-duties-list {
+  padding-left: 16px;
+}
+.Work-Experience-duties-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #595959;
+}
+.work-experience-container {
+  margin-bottom: 12px;
+}
+/* Education */
+.Education {
+  font-weight: 700;
+  font-size: 22px;
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.Education-places {
+  font-weight: 700;
+  font-size: 16px;
+  color: #6d9bf5;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+.Education-proffesion {
+  font-weight: 700;
+  font-size: 14px;
+  color: #000;
+}
+.education_1 {
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+@media screen and (max-width: 767px) {
+  .Wrapper {
+    flex-direction: column;
+  }
+}
